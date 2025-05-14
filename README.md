@@ -28,5 +28,5 @@ The project investigates unsupervised methods for identifying machine-generated 
 
 ---
 
-## Repository Structure
+
 
